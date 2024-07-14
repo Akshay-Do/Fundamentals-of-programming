@@ -1,0 +1,38 @@
+*{
+    background-color: lightblue;
+}
+
+body{
+    position: absolute;
+}
+
+h1{
+    background-color: darkgray;
+    font-family: 'Courier New', Courier, monospace;
+}
+form{
+    background-color: darkgray;
+    border: 1px solid black;
+    padding: 50px;
+    margin: 200px 100px 100px 600px;
+}
+#uname{
+    border-radius: 5px;
+    background-color: antiquewhite;
+    padding: 5px;
+}
+#password{
+    border-radius: 5px;
+    background-color: antiquewhite;
+    padding: 5px;
+}
+#submit{
+    border-radius: 5px;
+    background-color: antiquewhite;
+    padding: 5px 15px 5px 15px;
+}
+#clear{
+    border-radius: 5px;
+    background-color: antiquewhite;
+    padding: 5px 15px 5px 15px;
+}
