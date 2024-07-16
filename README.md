@@ -36,7 +36,7 @@ I am currently learning fundamentals of programming and the course has helped me
 <br/>  
 
 ### Front-end Skills  
-<img scr = "https://github.com/Akshay-Do/Portfolio/blob/11bcd4d50a5871b8646ada5195ee3044c3d329a3/Picture1.png" height = "100" width = "100"/>
+<img scr = "https://github.com/Akshay-Do/Portfolio/blob/11bcd4d50a5871b8646ada5195ee3044c3d329a3/Picture1.png" height = "1000" width = "1000"/>
   
 ### Back-end Skills  
 ![back-end skills](https://github.com/Akshay-Do/Portfolio/blob/11bcd4d50a5871b8646ada5195ee3044c3d329a3/Picture2.png)  
