@@ -1,4 +1,4 @@
-<h3>ABOUT ME:</h3>
+## About me:
 I am Akshay Dodhia, i am a student at USIU Africa and I am currently majoring in computer science. I enjoy coding and programming and during my free time i do some photography, read books and listening to music.<br><br>
 I am currently learning fundamentals of programming and the course has helped me understand the core concepts of programming and programming languages and it has allowed me to gain a thorough grasp of the syntax, semantics, and various programming paradigms, as well as the significance of programming languages in software development, acquired through a combination of academic coursework and pertinent practical tasks. <br><br>
 
@@ -10,7 +10,7 @@ I am currently learning fundamentals of programming and the course has helped me
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+## Frontend  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -19,7 +19,7 @@ I am currently learning fundamentals of programming and the course has helped me
 
 </td><td valign="top" width="33%">
 
-### Backend  
+## Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
