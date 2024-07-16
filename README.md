@@ -40,7 +40,11 @@ I am currently learning fundamentals of programming and the course has helped me
 </td></tr></table>  
 
 <br/>  
-
+### Front-end Skills  
+![Front-end skills](https://github.com/Akshay-Do/Portfolio/blob/11bcd4d50a5871b8646ada5195ee3044c3d329a3/Picture1.png)  
+  
+### Back-end Skills  
+![back-end skills](https://github.com/Akshay-Do/Portfolio/blob/11bcd4d50a5871b8646ada5195ee3044c3d329a3/Picture2.png)  
 
 ## Connect with me  
 <div align="center">
