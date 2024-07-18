@@ -39,7 +39,7 @@ I am currently learning fundamentals of programming and the course has helped me
 ![front-end skills](https://github.com/Akshay-Do/Fundamentals-of-programming/blob/9d18889f4487a83ac2d6171d42f2c9752e2dd777/Picture1.png)
   
 ### Back-end Skills  
-![back-end skills](https://github.com/Akshay-Do/Portfolio/blob/11bcd4d50a5871b8646ada5195ee3044c3d329a3/Picture2.png)  
+![back-end skills](https://github.com/Akshay-Do/Fundamentals-of-programming/blob/702e5d1e67edfd5f6a953f1c7783c02c4fb426b3/Picture2.png)  
 
 ## Connect with me  
 <div align="center">
