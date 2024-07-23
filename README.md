@@ -49,5 +49,8 @@ I am currently learning fundamentals of programming and the course has helped me
 <a href="https://linkedin.com/in/Akshay Dodhia" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
+
+<br>
+To know more about me, click ![here](https://github.com/Akshay-Do/Fundamentals-of-programming/blob/9d18889f4487a83ac2d6171d42f2c9752e2dd777/Picture1.png) to see my personal portfolio website
 
