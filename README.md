@@ -52,5 +52,5 @@ I am currently learning fundamentals of programming and the course has helped me
 </div>
 
 <br>
-To know more about me, click ![here](https://github.com/Akshay-Do/Fundamentals-of-programming/blob/9d18889f4487a83ac2d6171d42f2c9752e2dd777/Picture1.png) to see my personal portfolio website
+To know more about me, click <a href = ''>HERE</a> to see my personal portfolio website
 
