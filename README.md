@@ -6,7 +6,7 @@ I am currently learning fundamentals of programming and the course has helped me
 In the project I used HTML, CSS and JavaScript to for a very simple login form, HTML was used to create the form then i used css to give it a simple design and then JavaScript was used for form validation so it was looking for basic user input errors such as password length, empty fields and valid usernames.<br><br> 
 
 ## Project 2: Finding area of shapes using different programming languages
-For this project i choose Python, Java and JavaScript to write a program which took user input for either one of three shapes(rectangle, cricle and triangle) and then determined the area of the shape depending on the user input.<br>
+For this project i choose Python, Java and JavaScript to write a program which took user input for either one of three shapes(rectangle, circle and triangle) and then determined the area of the shape depending on the user input.<br>
 This project allowed or rather it gave an oppurtinity to understand how different programming languages work, how they carry out the program and most importantly how they vary in structure.<br><br> 
 
 <h3 align="left">Languages and Tools:</h3>
