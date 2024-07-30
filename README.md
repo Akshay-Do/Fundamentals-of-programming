@@ -65,6 +65,6 @@ I used C++ mostly and python to expirement on travel, insertions and sorting dat
 </div>
 
 <br>
-To know more about me, click <a href = "https://akshay-do.github.io/Portfolio/" target="_blank">HERE</a> to see my personal portfolio website 
+To know more about me, click <a target="_blank" rel="noopener" href="https://akshay-do.github.io/Portfolio/">HERE</a> to see my personal portfolio website 
 
 
