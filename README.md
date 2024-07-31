@@ -13,7 +13,7 @@ This project allowed me or rather it gave me an oppurtinity to understand how di
 I used Python and Java for this project, i used if and elif statement to create a loop and the program gets a users input then the loop decides what grade to is achieved depending on whether the user input meets some criteria in the loop.<br> This project allowed me to get a better insight on loops and their uses.  <br><br> 
 
 ## Project 4: Data structures and their uses
-I used C++ mostly and python to expirement on travel, insertions and sorting data in different data structures such as arrays, linked lists, queue, lists and stacks. This project allowed me to understand the workings of different data structures and how to perform specific operations on them.<br><br> 
+I used C++ mostly and python to expirement on traverse, insertions and sorting data in different data structures such as arrays, linked lists, queue, lists and stacks. This project allowed me to understand the workings of different data structures and how to perform specific operations on them.<br><br> 
 
 
 <h3 align="left">Languages and Tools:</h3>
